@@ -128,12 +128,9 @@ ul {
 
 .adr-nav {
   display: flex;
+  align-items: center;
   color: var(--title-color);
   margin-left: auto;
-}
-
-.heager-symbol {
-  display: flex;
 }
 
 .e-mail,
